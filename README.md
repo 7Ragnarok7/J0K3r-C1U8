@@ -5,7 +5,7 @@
 
 [![Built With](https://img.shields.io/badge/Built%20With-JavaScript-ffd700.svg)](https://en.wikipedia.org/wiki/JavaScript) [![Built With](https://img.shields.io/badge/Built%20With-Spark%20AR-ff0090.svg)](https://sparkar.facebook.com/ar-studio/)
 
-![joker demo](image-src/joker.gif)
+![joker demo](img-src/joker.gif)
 
 ### Joker-Club project is as an Augmented Reality based project featuring The Joker.
 
