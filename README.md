@@ -7,7 +7,7 @@
 
 ![joker demo](img-src/joker.gif)
 
-### Joker-Club project is as an Augmented Reality based project featuring The Joker.
+### Joker-Club project is an Augmented Reality based project featuring The Joker.
 
 This is a responsive face filter built which tracks the face and reacts to different facial gestures. 
 This project is built using the Spark AR frame-work provided by Facebook.  
