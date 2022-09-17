@@ -3,7 +3,7 @@
 # J0K3r-C1U8
 ### A Tribute to the Joker
 
-[![Built With](https://img.shields.io/badge/Built%20With-JavaScript-ffd700.svg)](https://en.wikipedia.org/wiki/JavaScript) [![Built With](https://img.shields.io/badge/Built%20With-Spark%20AR-ff0090.svg)](https://sparkar.facebook.com/ar-studio/)
+[![Built With](https://img.shields.io/badge/Built%20With-JavaScript-ffd700.svg)](https://en.wikipedia.org/wiki/JavaScript) [![Built With](https://img.shields.io/badge/Built%20With-Spark%20AR-ff0090.svg)](https://sparkar.facebook.com/ar-studio/) [![License](https://img.shields.io/badge/License-GPLv3-800000.svg)](LICENSE)
 
 ![joker demo](img-src/joker.gif)
 
