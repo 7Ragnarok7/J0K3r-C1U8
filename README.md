@@ -22,6 +22,10 @@ It works seamlessly for the Instagram and Facebook platform without the addition
 
 ### [CONTRIBUTING](CONTRIBUTING.md)
 
+### Visual Script/Source-Code Map :-
+
+![source code](Source%20Code/Patch.png)
+
 ### Requirements :- 
  - [Instagram][in] OR [Facebook][fb]
 
