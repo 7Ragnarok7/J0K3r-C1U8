@@ -51,6 +51,7 @@ It works seamlessly for the Instagram and Facebook platform without the addition
 ### Feedback :-
  - Share your feedback and discuss about the project at [(https://github.com/7Ragnarok7/J0K3r-C1U8/discussions)](https://github.com/7Ragnarok7/J0K3r-C1U8/discussions)
  - Don't forget to share your funny pics / videos of using the AR effect ^_^
+ - Let's put a smile on that face! :)
 
 [//]: # "References below:-"
 
