@@ -56,9 +56,9 @@ It works seamlessly for the Instagram and Facebook platform without the addition
 [//]: # "References below:-"
 
 [page]:<https://7Ragnarok7.github.io/J0K3r-C1U8>
-[facebook]:<https://www.facebook.com/fbcameraeffects/testit/1059042834754786/ZGUxN2U4NGNjZDI1M2VkZjExMTI4ODZiY2VkMTM4YTg=/>
-[instagram]:<https://www.instagram.com/ar/1158365255031548/?ch=ZjA3ZGY1Y2RjN2MxMjNkMzk4NDZhMTY2NDkzYWE2ZDM%3D>
-[youtube]:<https://youtube.com/shorts/HxFUhW5PbEU>
+[facebook]:<https://www.facebook.com/fbcameraeffects/tryit/669367628083956/>
+[instagram]:<https://www.instagram.com/ar/669367628083956/>
+[youtube]:<https://youtu.be/wY4pIorMXR8>
 [in]:<https://play.google.com/store/apps/details?id=com.instagram.android>
 [fb]:<https://play.google.com/store/apps/details?id=com.facebook.katana>
 
